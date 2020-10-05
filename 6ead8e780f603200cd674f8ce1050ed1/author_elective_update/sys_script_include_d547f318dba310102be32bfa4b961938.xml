@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_58872_needit.studio</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>studio</name>
+        <script><![CDATA[var studio = Class.create();
+studio.prototype = {
+    initialize: function() {
+    },
+
+    type: 'studio'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>vvlsnow</sys_created_by>
+        <sys_created_on>2020-09-25 19:28:33</sys_created_on>
+        <sys_id>d547f318dba310102be32bfa4b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>studio</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_d547f318dba310102be32bfa4b961938</sys_update_name>
+        <sys_updated_by>vvlsnow</sys_updated_by>
+        <sys_updated_on>2020-09-25 19:28:33</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62bef949dbaf97c44f035d00cf9619b6</instance_id>
+        <instance_name>dev67057</instance_name>
+        <name>sys_script_include_d547f318dba310102be32bfa4b961938</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_58872_needit.studio&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;studio&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var studio = Class.create();
+studio.prototype = {
+    initialize: function() {
+    },
+
+    type: 'studio'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;vvlsnow&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-09-25 19:28:33&lt;/sys_created_on&gt;&lt;sys_id&gt;d547f318dba310102be32bfa4b961938&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;studio&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d547f318dba310102be32bfa4b961938&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;vvlsnow&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-09-25 19:28:33&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-91952697</payload_hash>
+        <record_name>studio</record_name>
+        <reverted_from/>
+        <source>9ca33f14dba310102be32bfa4b9619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vvlsnow</sys_created_by>
+        <sys_created_on>2020-09-25 19:28:33</sys_created_on>
+        <sys_id>b6573718dba310102be32bfa4b961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174c6bd128e0000001</sys_recorded_at>
+        <sys_updated_by>vvlsnow</sys_updated_by>
+        <sys_updated_on>2020-09-25 19:28:33</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>be5737184da31010b3203eb9df10e246</update_guid>
+        <update_guid_history>be5737184da31010b3203eb9df10e246:-91952697</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vvlsnow</sys_created_by>
+        <sys_created_on>2020-09-28 03:17:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>28a3c49446cb48a2a1a0996d4b3318a4</sys_id>
+        <sys_metadata>d547f318dba310102be32bfa4b961938</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>studio</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_include_d547f318dba310102be32bfa4b961938</sys_update_name>
+        <sys_update_version display_value="sys_script_include_d547f318dba310102be32bfa4b961938">b6573718dba310102be32bfa4b961947</sys_update_version>
+        <sys_updated_by>vvlsnow</sys_updated_by>
+        <sys_updated_on>2020-09-28 03:17:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
