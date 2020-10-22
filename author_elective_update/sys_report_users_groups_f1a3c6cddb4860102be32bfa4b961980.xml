@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">7da3c6cddb4860102be32bfa4b96197f</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>vvlsnow</sys_created_by>
+        <sys_created_on>2020-10-22 15:29:53</sys_created_on>
+        <sys_id>f1a3c6cddb4860102be32bfa4b961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7da3c6cddb4860102be32bfa4b96197f</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_f1a3c6cddb4860102be32bfa4b961980</sys_update_name>
+        <sys_updated_by>vvlsnow</sys_updated_by>
+        <sys_updated_on>2020-10-22 15:29:53</sys_updated_on>
+        <user_id display_value="Vijaya Velumala">3651c090db7a10102be32bfa4b9619d7</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62bef949dbaf97c44f035d00cf9619b6</instance_id>
+        <instance_name>dev67057</instance_name>
+        <name>sys_report_users_groups_f1a3c6cddb4860102be32bfa4b961980</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">7da3c6cddb4860102be32bfa4b96197f</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>vvlsnow</sys_created_by><sys_created_on>2020-10-22 15:29:53</sys_created_on><sys_id>f1a3c6cddb4860102be32bfa4b961980</sys_id><sys_mod_count>0</sys_mod_count><sys_name>7da3c6cddb4860102be32bfa4b96197f</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_report_users_groups_f1a3c6cddb4860102be32bfa4b961980</sys_update_name><sys_updated_by>vvlsnow</sys_updated_by><sys_updated_on>2020-10-22 15:29:53</sys_updated_on><user_id display_value="Vijaya Velumala">3651c090db7a10102be32bfa4b9619d7</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>1654454862</payload_hash>
+        <record_name>7da3c6cddb4860102be32bfa4b96197f</record_name>
+        <reverted_from/>
+        <source>0eb52bf8dbc060102be32bfa4b9619d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vvlsnow</sys_created_by>
+        <sys_created_on>2020-10-22 15:29:53</sys_created_on>
+        <sys_id>39a38acddb4860102be32bfa4b961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17550ee41ce0000001</sys_recorded_at>
+        <sys_updated_by>vvlsnow</sys_updated_by>
+        <sys_updated_on>2020-10-22 15:29:53</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>71a38acda04860100d099d053c3f0b78</update_guid>
+        <update_guid_history>71a38acda04860100d099d053c3f0b78:1654454862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vvlsnow</sys_created_by>
+        <sys_created_on>2020-10-22 21:08:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>3b1bb838fced4ef7992859c72c9796e9</sys_id>
+        <sys_metadata>f1a3c6cddb4860102be32bfa4b961980</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7da3c6cddb4860102be32bfa4b96197f</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_f1a3c6cddb4860102be32bfa4b961980</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_f1a3c6cddb4860102be32bfa4b961980">39a38acddb4860102be32bfa4b961978</sys_update_version>
+        <sys_updated_by>vvlsnow</sys_updated_by>
+        <sys_updated_on>2020-10-22 21:08:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
