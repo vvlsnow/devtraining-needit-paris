@@ -53,9 +53,9 @@
         <group/>
         <import_table/>
         <interval>year</interval>
-        <is_published>false</is_published>
+        <is_published>true</is_published>
         <is_real_time>false</is_real_time>
-        <is_scheduled>false</is_scheduled>
+        <is_scheduled>true</is_scheduled>
         <legend_align_columns>true</legend_align_columns>
         <legend_background_color/>
         <legend_border_color/>
@@ -76,7 +76,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles>x_58872_needit.needit_user</roles>
+        <roles>x_58872_needit.needit_user,public</roles>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -104,14 +104,14 @@
         <sys_created_by>vvlsnow</sys_created_by>
         <sys_created_on>2020-10-22 15:16:45</sys_created_on>
         <sys_id>9da0c24ddb4860102be32bfa4b96190b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>NeedIt Requests by Type</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_report_9da0c24ddb4860102be32bfa4b96190b</sys_update_name>
         <sys_updated_by>vvlsnow</sys_updated_by>
-        <sys_updated_on>2020-10-22 21:18:59</sys_updated_on>
+        <sys_updated_on>2020-10-23 02:38:28</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <title>NeedIt Requests by Type</title>
         <title_horizontal_alignment>left</title_horizontal_alignment>
